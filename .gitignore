@@ -1,0 +1,11 @@
+# 忽略特定文件夹
+node_modules/
+__pycache__/
+.venv/
+
+# 忽略特定文件
+config.json
+*.log
+
+# 忽略所有 .tmp 结尾的文件
+*.tmp
